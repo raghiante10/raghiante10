@@ -39,16 +39,16 @@ Tenho foco em **resolução de problemas, boas práticas e código limpo.**
 
 <div align="center">
   
-| Linguagem | Proficiência | Gráfico |
-|:----------:|:-------------:|:-------:|
-| 🐍 **Python** | **80%** | ![Python](https://progress-bar.dev/80/?title=Python&color=3776AB) |
-| 🌐 **HTML5** | **100%** | ![HTML](https://progress-bar.dev/100/?title=HTML5&color=E44D26) |
-| 🎨 **CSS3** | **72%** | ![CSS](https://progress-bar.dev/72/?title=CSS3&color=264DE4) |
-| 💻 **C#** | **76%** | ![C#](https://progress-bar.dev/76/?title=C%23&color=68217A) |
-| ☕ **Java** | **63%** | ![Java](https://progress-bar.dev/63/?title=Java&color=F89820) |
-| ⚡ **JavaScript (Node.js)** | **35%** | ![JS](https://progress-bar.dev/35/?title=JS(Node)&color=F7DF1E) |
-| 🗄️ **SQL Server / MySQL** | **30%** | ![SQL](https://progress-bar.dev/30/?title=SQL&color=CC2927) |
-| 💎 **Ruby** | **29%** | ![Ruby](https://progress-bar.dev/29/?title=Ruby&color=D91404) |
+| Linguagem | Proficiência |
+|:----------:|:-------------:|
+| 🐍 **Python** | **80%** |
+| 🌐 **HTML5** | **100%** |
+| 🎨 **CSS3** | **72%** |
+| 💻 **C#** | **76%** |
+| ☕ **Java** | **63%** |
+| ⚡ **JavaScript (Node.js)** | **35%** |
+| 🗄️ **SQL Server / MySQL** | **30%** |
+| 💎 **Ruby** | **29%** |
 
 </div>
 

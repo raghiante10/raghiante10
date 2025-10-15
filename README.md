@@ -15,7 +15,7 @@
 ### 🚀 Sobre mim
 
 Sou um desenvolvedor **Back-End Júnior**, apaixonado por tecnologia e aprendizado contínuo.  
-Atualmente estudo **Tecnologia da Informação** e busco oportunidades como **Estagiário de TI** ou **Desenvolvedor Júnior**.  
+Atualmente estudo **Analise e desenvolvimento de sistemas** e busco oportunidades como **Estagiário de TI** ou **Desenvolvedor Júnior**.  
 Tenho foco em **resolução de problemas, boas práticas e código limpo.**
 
 ---

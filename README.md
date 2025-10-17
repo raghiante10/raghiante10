@@ -1,23 +1,22 @@
-<!-- README Profile Gustavo Raghiante -->
-<!-- Versão com gráficos circulares animados (Dark Mode) -->
+<!-- Gustavo Raghiante - README Profile -->
 
 <h1 align="center">👨‍💻 Gustavo Raghiante</h1>
 
 <p align="center">
-  <b>Desenvolvedor Back-End Júnior</b><br>
-  <i>Python | C# | Java | JavaScript (Node.js) | SQL | Ruby</i><br><br>
+  <b>Dev Júnior Back-End</b> <br>
+  <i>Python | C# | Java | JavaScript (Node.js) | MySQL | Ruby</i> <br><br>
   📍 Mauá - São Paulo, Brasil <br>
-  ✉️ <a href="mailto:raghiante10@gmail.com">raghiante10@gmail.com</a><br>
-  🎓 Impacta Tecnologia (2018 – 2027)
+  ✉️ <a href="mailto:raghiante10@gmail.com">raghiante10@gmail.com</a> <br>
+  🎓 Impacta Tecnologia (Cursando 2018–2027)
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou um **Dev Back-End Júnior** apaixonado por tecnologia e aprendizado contínuo.  
-Atualmente curso **Tecnologia da Informação** e busco oportunidades como **Estagiário de TI** ou **Desenvolvedor Júnior**.  
-Tenho foco em **código limpo, boas práticas e evolução constante**.  
+Sou um desenvolvedor **Back-End Júnior**, apaixonado por tecnologia e aprendizado contínuo.  
+Atualmente estudo **Tecnologia da Informação** e busco oportunidades como **Estagiário de TI** ou **Desenvolvedor Júnior**.  
+Tenho foco em **resolução de problemas, boas práticas e código limpo.**
 
 ---
 
@@ -36,17 +35,28 @@ Tenho foco em **código limpo, boas práticas e evolução constante**.
 
 ---
 
-### 📈 Radar de Proficiência Técnica
+### 📊 Proficiência Técnica
 
-<p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Python','HTML5','CSS3','C#','Java','JavaScript','SQL','Ruby'],datasets:[{label:'Proficiency',data:[80,100,72,76,63,35,30,29],backgroundColor:'rgba(56,189,248,0.3)',borderColor:'#38bdf8',pointBackgroundColor:'#38bdf8',borderWidth:2}]},options:{plugins:{legend:{labels:{color:'white'}}},scales:{r:{angleLines:{color:'#444'},grid:{color:'#333'},pointLabels:{color:'white'},ticks:{display:false}}}}}" width="500" height="350" />
-</p>
+<div align="center">
+  
+| Linguagem | Proficiência | Gráfico |
+|:----------:|:-------------:|:-------:|
+| 🐍 **Python** | **80%** | ![Python](https://progress-bar.dev/80/?title=Python&color=3776AB) |
+| 🌐 **HTML5** | **100%** | ![HTML](https://progress-bar.dev/100/?title=HTML5&color=E44D26) |
+| 🎨 **CSS3** | **72%** | ![CSS](https://progress-bar.dev/72/?title=CSS3&color=264DE4) |
+| 💻 **C#** | **76%** | ![C#](https://progress-bar.dev/76/?title=C%23&color=68217A) |
+| ☕ **Java** | **63%** | ![Java](https://progress-bar.dev/63/?title=Java&color=F89820) |
+| ⚡ **JavaScript (Node.js)** | **35%** | ![JS](https://progress-bar.dev/35/?title=JS(Node)&color=F7DF1E) |
+| 🗄️ **SQL Server / MySQL** | **30%** | ![SQL](https://progress-bar.dev/30/?title=SQL&color=CC2927) |
+| 💎 **Ruby** | **29%** | ![Ruby](https://progress-bar.dev/29/?title=Ruby&color=D91404) |
+
+</div>
 
 ---
 
-### 💼 Experiência e Formação
+### 💼 Experiências e Formação
 
-- 🏛️ **Governo do Estado de São Paulo** — Analista / Desenvolvedor Júnior  
+- 🏛️ **Governo do Estado de São Paulo** — Analista / Dev Júnior  
 - 🎓 **Impacta Tecnologia** — Curso de Tecnologia da Informação *(2018 - 2027)*  
 
 ---
@@ -60,15 +70,9 @@ Tenho foco em **código limpo, boas práticas e evolução constante**.
 ### 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="mailto:raghiante10@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-raghiante/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/GustavoRaghiante">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <a href="mailto:raghiante10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gustavo-raghiante/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/GustavoRaghiante"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -76,10 +80,10 @@ Tenho foco em **código limpo, boas práticas e evolução constante**.
 ### ⚡ Estatísticas GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GustavoRaghiante&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRaghiante&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GustavoRaghiante&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRaghiante&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-⭐ *“Persistir, aprender e evoluir — é assim que se constrói o futuro em tecnologia.”*
+⭐ *"Persistir, aprender e evoluir — é assim que se constrói o futuro em tecnologia."*

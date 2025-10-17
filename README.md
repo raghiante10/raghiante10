@@ -6,64 +6,8 @@
   <b>Dev Júnior Back-End</b> <br>
   <i>Python | C# | Java | JavaScript (Node.js) | MySQL | Ruby</i> <br><br>
   📍 Mauá - São Paulo, Brasil <br>
-  ✉️ <a href="mailto:raghiante10@gmail.com">raghiante10@gmail.com</a> <br>
-  🎓 Impacta Tecnologia (Cursando 2018–2027)
+  ✉️ <a href="mailto:raghiante10@gmail.com">raghiante10@gmail.com</a>
 </p>
-
----
-
-### 🚀 Sobre mim
-
-Sou um desenvolvedor **Back-End Júnior**, apaixonado por tecnologia e aprendizado contínuo.  
-Atualmente estudo **Analise e desenvolvimento de sistemas** e busco oportunidades como **Estagiário de TI** ou **Desenvolvedor Júnior**.  
-Tenho foco em **resolução de problemas, boas práticas e código limpo.**
-
----
-
-### 🧠 Linguagens e Tecnologias
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="55px" />
-</p>
-
----
-
-### 📊 Proficiência Técnica
-
-<div align="center">
-  
-| Linguagem | Proficiência |
-|:----------:|:-------------:|
-| 🐍 **Python** | **80%** |
-| 🌐 **HTML5** | **100%** |
-| 🎨 **CSS3** | **72%** |
-| 💻 **C#** | **76%** |
-| ☕ **Java** | **63%** |
-| ⚡ **JavaScript (Node.js)** | **35%** |
-| 🗄️ **SQL Server / MySQL** | **30%** |
-| 💎 **Ruby** | **29%** |
-
-</div>
-
----
-
-### 💼 Experiências e Formação
-
-- 🏛️ **Governo do Estado de São Paulo** — Analista / Dev Júnior  
-- 🎓 **Impacta Tecnologia** — Curso de Tecnologia da Informação *(2018 - 2027)*  
-
----
-
-### 🔍 Buscando oportunidades
-
-> 💼 **Estagiário de TI** | **Desenvolvedor Júnior** | **Back-End Developer**
 
 ---
 
@@ -77,12 +21,35 @@ Tenho foco em **resolução de problemas, boas práticas e código limpo.**
 
 ---
 
+### 💻 Linguagens & Proficiência
+
+| Linguagem | Nível de Proficiência |
+|------------|-----------------------|
+| 🐍 **Python** | ![80%](https://progress-bar.dev/80/?title=80%&width=200&color=blueviolet) |
+| 🌐 **HTML** | ![100%](https://progress-bar.dev/100/?title=100%&width=200&color=brightgreen) |
+| 🎨 **CSS** | ![72%](https://progress-bar.dev/72/?title=72%&width=200&color=teal) |
+| ⚙️ **C#** | ![76%](https://progress-bar.dev/76/?title=76%&width=200&color=blue) |
+| ☕ **Java** | ![63%](https://progress-bar.dev/63/?title=63%&width=200&color=orange) |
+| 📜 **JavaScript (Node.js)** | ![35%](https://progress-bar.dev/35/?title=35%&width=200&color=yellow) |
+| 🧮 **SQL Server** | ![30%](https://progress-bar.dev/30/?title=30%&width=200&color=gray) |
+| 💎 **Ruby** | ![29%](https://progress-bar.dev/29/?title=29%&width=200&color=red) |
+
+---
+
 ### ⚡ Estatísticas GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GustavoRaghiante&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRaghiante&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GustavoRaghiante&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GustavoRaghiante&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+### 🧠 Sobre mim
+
+Sou apaixonado por tecnologia e desenvolvimento Back-End.  
+Gosto de resolver problemas, aprender novas linguagens e transformar ideias em código.  
+Busco constantemente evoluir e contribuir em projetos que façam diferença.  
 
 ---
 

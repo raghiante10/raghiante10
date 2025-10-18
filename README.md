@@ -80,8 +80,8 @@ Tenho foco em **resolução de problemas, boas práticas e código limpo.**
 ### ⚡ Estatísticas GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GustavoRaghiante&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRaghiante&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raghiante10&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghiante10&layout=compact&theme=tokyonight" />
 </p>
 
 ---
